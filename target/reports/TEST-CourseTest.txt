@@ -1,5 +1,0 @@
-Testsuite: CourseTest
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.021 sec
-
-Testcase: testCourseLetterGrade took 0.005 sec
-Testcase: testCourseScore took 0 sec
