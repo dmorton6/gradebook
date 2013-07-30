@@ -1,0 +1,5 @@
+Testsuite: SectionTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.021 sec
+
+Testcase: testSectionLetterGrade took 0.004 sec
+Testcase: testSectionScore took 0 sec

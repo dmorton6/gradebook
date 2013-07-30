@@ -1,0 +1,6 @@
+Starting audit...
+C:\cs2340\gradebook\src\main\java\gradebook\model\GradeReporter.java:32:30: '4' is a magic number.
+C:\cs2340\gradebook\src\main\java\gradebook\model\GradeReporter.java:33:30: '3' is a magic number.
+C:\cs2340\gradebook\src\main\java\gradebook\model\GradeReporter.java:41:19: '3.0' is a magic number.
+C:\cs2340\gradebook\src\main\java\gradebook\model\GradebookCategory.java:16:5: Definition of 'equals()' without corresponding definition of 'hashCode()'.
+Audit done.
